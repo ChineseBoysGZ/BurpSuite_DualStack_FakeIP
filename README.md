@@ -1,4 +1,3 @@
-```
 # DualStack fakeIP Burp Extension
 
 ![Burp Extension](https://img.shields.io/badge/Burp_Extension-v1.0-green)
@@ -92,4 +91,3 @@ MIT License
 ## 插件开发借鉴
 
 https://github.com/TheKingOfDuck/BurpFakeIP
-```
